@@ -6,7 +6,7 @@ var bodyParser  = require('body-parser');
 const config = {
   host: 'localhost',
   user:'root',
-  password: '0H@$h123#',
+  password: '',
   database: 'oriensuat'
 
 }
